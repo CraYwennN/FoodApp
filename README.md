@@ -2,7 +2,17 @@
 
 A new Flutter project.
 
+Application build with flutter, firebase.
+
 ## Getting Started
+
+
+First TODO list:
+
+  1. Registration,login and autenthication with firebase.
+  2.Initial design and layout of the app.
+  3.Navigation between pages of the app.
+ 
 
 This project is a starting point for a Flutter application.
 
